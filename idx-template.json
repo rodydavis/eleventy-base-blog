@@ -1,0 +1,7 @@
+{
+  "name": "11ty",
+  "description": "A simpler static site generator. An alternative to Jekyll. Written in JavaScript. Transforms a directory of templates (of varying types) into HTML.",
+  "categories": ["Web app"],
+  "icon": "https://www.11ty.dev/img/logo-github.svg",
+  "publisher": "Google LLC"
+}

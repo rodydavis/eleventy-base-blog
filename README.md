@@ -4,6 +4,21 @@ A starter repository showing how to build a blog with the [Eleventy](https://www
 
 ## Getting Started
 
+<a href="https://idx.google.com/new?template=https://github.com/11ty/eleventy-base-blog">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.idx.dev/btn/try_dark_32.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.idx.dev/btn/try_light_32.svg">
+    <img
+      height="32"
+      alt="Try in IDX"
+      src="https://cdn.idx.dev/btn/try_purple_32.svg">
+  </picture>
+</a>
+
 * [Want a more generic/detailed getting started guide?](https://www.11ty.dev/docs/getting-started/)
 
 1. Make a directory and navigate to it:
